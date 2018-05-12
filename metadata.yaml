@@ -1,0 +1,32 @@
+_repo: The-Biography-of-Robert-Murray-M-Cheyne_15251
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonar, Andrew A. (Andrew Alexander)
+    aliases:
+    - Bonar, Andrew Alexander
+    - Bonar, A. A. (Andrew Alexander)
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '5948'
+    url: http://www.gutenberg.org/2009/agents/5948
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Bonar
+description: ''
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Scotland -- Clergy -- Biography'
+- !lcsh 'M''Cheyne, Robert Murray, 1813-1843'
+- !lcsh 'Presbyterian Church -- Scotland -- Clergy -- Biography'
+- !lcc 'BX'
+title: The Biography of Robert Murray M'Cheyne
+url: http://www.gutenberg.org/ebooks/15251
